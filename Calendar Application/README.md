@@ -10,7 +10,7 @@
 
 <hr>
 
-##About Calendar in C:
+## About Calendar in C:
 
 -   Basically three operations can be done in this calendar application. To find out the day corresponding to a given date, the date, month and year are asked. You can list the days and dates of any month of any year. For example, entering 04 2014 (April 2014) will give you an output as shown in the screenshot in this post.
 
