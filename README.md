@@ -1,7 +1,7 @@
 # C/C++ Projects
 <hr>
-###This Repository contains C and C++ Projects.
-###:blue_book: &nbsp;C/C++Projects
+### This Repository contains C and C++ Projects.
+### :blue_book: &nbsp;C/C++Projects
 <hr>
 
 | Project Name                                                      | Description                       | Featues & Aim                    |
